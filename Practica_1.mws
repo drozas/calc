@@ -1,0 +1,1170 @@
+{VERSION 3 0 "IBM INTEL NT" "3.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 0 
+0 }{CSTYLE "2D Comment" 2 18 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }
+{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 }{CSTYLE "
+" -1 256 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 257 "" 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 258 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 }{CSTYLE "" -1 259 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 260 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 261 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 262 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 263 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 264 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 265 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 266 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 267 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 268 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 269 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 270 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 271 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 272 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 273 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 274 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 275 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 276 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 277 "" 0 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" -1 278 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 
+0 0 }{CSTYLE "" -1 279 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{CSTYLE "" 
+-1 280 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }{PSTYLE "Normal" -1 0 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 
+0 0 0 0 -1 0 }{PSTYLE "Heading 1" 0 3 1 {CSTYLE "" -1 -1 "" 1 18 0 0 
+0 0 0 1 0 0 0 0 0 0 0 }1 0 0 0 6 6 0 0 0 0 0 0 -1 0 }{PSTYLE "Heading \+
+2" 3 4 1 {CSTYLE "" -1 -1 "" 1 14 0 0 0 0 0 0 0 0 0 0 0 0 0 }0 0 0 -1 
+4 4 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 3 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "Maple Plot" 0 13 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 }3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 256 1 {CSTYLE 
+"" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 
+-1 0 }{PSTYLE "" 0 257 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 258 1 {CSTYLE "" 
+-1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 
+0 }{PSTYLE "" 0 259 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 
+0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 260 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 261 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 262 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 263 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 264 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 265 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 266 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 267 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 268 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 269 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 270 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 271 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 272 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 273 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 274 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 275 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 276 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 0 277 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }
+0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 0 278 1 {CSTYLE "" -1 -1 "
+" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 11 279 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+}1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 280 1 {CSTYLE "" -1 
+-1 "" 0 18 0 0 0 0 0 0 0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 
+}{PSTYLE "" 0 281 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+}3 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 282 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 11 283 1 {CSTYLE "" -1 -1 "" 1 18 0 0 0 0 0 1 0 0 0 0 0 0 
+0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "" 11 284 1 {CSTYLE "" -1 
+-1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 }1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }
+{PSTYLE "" 11 285 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 
+}1 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 283 "" 0 "" {TEXT -1 10 "PR\301CTICA I" }}{PARA 
+11 "" 0 "" {TEXT -1 16 "TEMA 1. C\301LCULO." }}{PARA 281 "" 0 "" 
+{TEXT -1 20 "MATEM\301TICA APLICADA." }}}{SECT 1 {PARA 3 "" 0 "" 
+{TEXT -1 9 "OBJETIVOS" }}{PARA 0 "" 0 "" {TEXT -1 48 "Los OBJETIVOS pe
+rseguidos con esta pr\341ctica son:" }}{PARA 0 "" 0 "" {TEXT -1 59 "1
+\272) Aprender a sumar series num\351ricas con ayuda de MAPLE V." }}
+{PARA 0 "" 0 "" {TEXT -1 80 "2\272) Ejercitar algunos criterios de an
+\341lisis de convergencia de series num\351ricas." }}{PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{SECT 1 {PARA 3 "" 0 "" {TEXT -1 34 "FORMA DE DESARRO
+LLAR ESTA PR\301CTICA" }}{PARA 0 "" 0 "" {TEXT -1 246 "El desarrollo d
+e la pr\341ctica consistir\341 en la realizaci\363n de ejemplos resuel
+tos (ep\355grafe de EJEMPLOS) y tras ello se propone al alumno el desa
+rrollo de algunos ejercicios (ep\355grafe de EJERCICIOS PROPUESTOS) qu
+e deber\341 desarrollar individualmente" }}}{SECT 1 {PARA 3 "" 0 "" 
+{TEXT -1 49 "TIEMPO ESTIMADO PARA EL DESARROLLO DE LA PR\301CTICA" }}
+{PARA 0 "" 0 "" {TEXT -1 162 "El tiempo estimado para el desarrollo de
+ esta pr\341ctica es de 30 minutos para el estudio de los ejemplos y d
+e 1h30 para la resoluci\363n de los ejercicios propuestos." }}}{SECT 
+1 {PARA 3 "" 0 "" {TEXT -1 8 "EJEMPLOS" }}{SECT 1 {PARA 4 "" 0 "" 
+{TEXT -1 34 "Primer ejemplo (Criterio integral)" }}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 22 "Consideramos la serie " }}{PARA 0 "" 0 "" {TEXT -1 
+0 "" }{XPPEDIT 18 0 "Sum(1/(n*(n+1)),n = 1 .. infinity);" "6#-%$SumG6$
+*&\"\"\"\"\"\"*&%\"nGF(,&F*F(\"\"\"F(F(!\"\"/F*;\"\"\"%)infinityG" }}
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 41 "Definimos el t
+\351rmino general de la serie:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 21 "an:=(n)->1/(n*(n+1));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#an
+GR6#%\"nG6\"6$%)operatorG%&arrowGF(*&\"\"\"F-*&9$\"\"\",&F/\"\"\"F2F2
+\"\"\"!\"\"F(F(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 55 "Vemos si an \+
+tiende a cero cuando n tiende al infinito (" }{TEXT 256 19 "condici
+\363n necesaria" }{TEXT -1 18 " de convergencia):" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 24 "limit(an(n),n=infinity);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Definim
+os la " }{TEXT 257 20 "n-\351sima suma parcial" }{TEXT -1 13 " de la s
+erie:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "Sn:=(n)->sum(1/(i*
+(i+1)),i=1..n);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#SnGR6#%\"nG6\"6$
+%)operatorG%&arrowGF(-%$sumG6$*&\"\"\"F0*&%\"iG\"\"\",&F2\"\"\"F5F5\"
+\"\"!\"\"/F2;F59$F(F(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "Repres
+entamos las 200 primeras sumas parciales:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 33 "plot(Sn(n),n=1..200,style=point);" }}{PARA 13 "" 1 
+"" {GLPLOT2D 400 300 300 {PLOTDATA 2 "6&-%'CURVESG6$7jn7$$\"\"\"\"\"!$
+\"1+++++++]!#;7$$\"1eRZ_5bN6!#:$\"1VPidyO<`F-7$$\"1<z%\\5-6F\"F1$\"1'o
+9PU^of&F-7$$\"1v=UdJl19F1$\"1xgLA?&[%eF-7$$\"1Le*)4U?U:F1$\"1WF'ep0k1'
+F-7$$\"1]P%[J1L\"=F1$\"19\"GN\\jaW'F-7$$\"1n;z>%3W3#F1$\"1x<\"f?()yv'F
+-7$$\"1+voHEhEEF1$\"1==#R(fgUsF-7$$\"1LLeRo\")oJF1$\"1]C\"3'yB,wF-7$$
+\"1n\"z%\\5-6PF1$\"1l&e:\"zJxyF-7$$\"1+]Pf_A`UF1$\"1z#R*QvS'4)F-7$$\"1
+L3Fp%Haz%F1$\"1@f\"zL-XF)F-7$$\"1mm;zOjP`F1$\"1'p)[7S7A%)F-7$$\"1+vo9'
+4ZA(F1$\"1v#)4.;:%y)F-7$$\"1L$3-b&y6\"*F1$\"1Y$fj(\\06!*F-7$$\"1]7G!)*
+*RB6!#9$\"1WtOReg#=*F-7$$\"1n;a09iN8Fbp$\"1'*peCvV.$*F-7$$\"1n;zQx(Gw
+\"Fbp$\"1sj+>h>j%*F-7$$\"1L3F(R.\")=#Fbp$\"19fS8o&Hc*F-7$$\"1nTN:?M#e#
+Fbp$\"1_P#RY\">F'*F-7$$\"1+v=pKb!*HFbp$\"1J@jRLVw'*F-7$$\"1nT&=$fs7MFb
+p$\"1fdI-3K:(*F-7$$\"1+vV\"oWN$QFbp$\"11I&>Pwdu*F-7$$\"1LLe!\\3kE%Fbp$
+\"1'*ppD)y4x*F-7$$\"1m;Hp^nZYFbp$\"1ch;%fq$*y*F-7$$\"1++vY6*o2&Fbp$\"1
+UnXvQ$o!)*F-7$$\"1++DE&py]&Fbp$\"1E!33;z;#)*F-7$$\"1++D`q>BfFbp$\"1@\"
+*H9_(R$)*F-7$$\"1mT&oBa.I'Fbp$\"1U?)ykeP%)*F-7$$\"1MLe21$)[nFbp$\"1p2]
+s'*)R&)*F-7$$\"1KLL?*[(GrFbp$\"1cNzvMmh)*F-7$$\"1*\\(oNUoqvFbp$\"1%\\F
+M`L'p)*F-7$$\"1KL$G(=(='zFbp$\"1C5eG$ff()*F-7$$\"1+vo5n1\"R)Fbp$\"1$4]
+p;HA))*F-7$$\"1*\\i?ph(*z)Fbp$\"11*)zSuj())*F-7$$\"1M$3-.#>E#*Fbp$\"1(
+[Q35vF*)*F-7$$\"1M3x(>)y<'*Fbp$\"1M)pb#f4(*)*F-7$$\"1n\"Hnv<S+\"!#8$\"
+19-c(R#Q,**F-7$$\"1<a=T@*y/\"Faw$\"1jC)[Ssa!**F-7$$\"1]7$=#\\3'3\"Faw$
+\"11_>$>m(3**F-7$$\"1nTDrTLF6Faw$\"1ji3%4v?\"**F-7$$\"1++:#o[*p6Faw$\"
+1g(f:b]_\"**F-7$$\"1+vBn'Q;@\"Faw$\"1Vo4NF9=**F-7$$\"1](o9(e(>D\"Faw$
+\"1*[yA=f2#**F-7$$\"1+DYfMw'H\"Faw$\"1\\fUc]ZB**F-7$$\"1LLG*42qL\"Faw$
+\"1o-`T8wD**F-7$$\"1+]iud(*z8Faw$\"1#[)4+j0G**F-7$$\"1;a)3y6*=9Faw$\"1
+I5Htm,I**F-7$$\"1+]2?\"z9Y\"Faw$\"1u;dp6/K**F-7$$\"1$3-*o;`,:Faw$\"1b4
+)=%>%Q$**F-7$$\"1]P/B\")RV:Faw$\"1V]o-]iN**F-7$$\"1L$eWBIVe\"Faw$\"1-A
+<PxFP**F-7$$\"1](=<O#=F;Faw$\"1oFX\\%>*Q**F-7$$\"1nmO`SXo;Faw$\"1T*ReO
+@/%**F-7$$\"1n\"z!>.m5<Faw$\"1iEpwF)=%**F-7$$\"1$3-c4<Dv\"Faw$\"1LfnhH
+EV**F-7$$\"1++:E\"z4z\"Faw$\"1uy&zkuW%**F-7$$\"1Lef`41N=Faw$\"1]%o&[7!
+e%**F-7$$\"1nmcl#)[u=Faw$\"1p,C'>Np%**F-7$$\"1](oN+El\">Faw$\"1*[mh4$4
+[**F-7$$\"1]7t#[hn&>Faw$\"1m)*o$*\\:\\**F-7$$\"$+#F*$\"11*=iv[-&**F--%
+'COLOURG6&%$RGBG$\"#5!\"\"F*F*-%+AXESLABELSG6$Q\"n6\"%!G-%&STYLEG6#%&P
+OINTG-%%VIEWG6$;F(Fh^l%(DEFAULTG" 1 5 0 1 0 2 9 1 4 2 1.000000 
+45.000000 45.000000 0 }}}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 21 "Hallamos
+ sus valores:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "for k from
+ 1 by 1 to 200 do evalf(Sn(k)) od;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+$\"+++++]!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+nmmmm!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+++++v!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+++++!)!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+LLLL$)!#5" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+r&G9d)!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"++++]()!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*)
+))))))))!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+++++!*!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+\"4444*!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+nmmm\"*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+J#p2B*!#5
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+'G9dG*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+LLLL$*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+++
++v$*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+1Zw6%*!#5" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+WWWW%*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+6Uot%*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+++++&*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+C&4Q_*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+XXXX&*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\"
+R<_c*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+LLL$e*!#5" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+++++'*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+:YQ:'*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+I'H'H'*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Vr&Gk*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+9C<b'*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+nm
+mm'*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+b$>un*!#5" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+++](o*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+(pppp*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+`B)eq*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+9dG9(*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+AAAA(*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+I(
+H(H(*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+0@%ot*!#5" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+W(*eV(*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"++++](*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+hv4c(*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+iZ!>w*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+g=Wn(*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+ts
+ss(*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+yxxx(*!#5" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+'p3Ey*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+VSB(y*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+nmm\"z*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+n$=fz*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+++++)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+p:
+#R!)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+3Bp2)*!#5" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+b2K6)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+:[\"[\")*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+====)*!#5" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+r&G9#)*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+/9cC)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+2i
+eF)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+v%30$)*!#5" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+LLLL)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+ub1O)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+x'4(Q)*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+T)p7%)*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+++vV)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+YQ
+:Y)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+[[[[)*!#5" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+piu])*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+w6%H&)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+kC2b)*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+dG9d)*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+I\\:f)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+6
+66h)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*p8I')*!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+l['[')*!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+nmmm)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+`5Uo)*!#5" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+q)H,()*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+s[zr)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Ax
+Tt)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"++++v)*!#5" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+5Kaw)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+!y[!y)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+s!=&z)*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\"Q_4))*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+THN#))*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+I
+4s$))*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+ru0&))*!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+OOO'))*!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+\\/k())*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*))))))))
+*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+!*)4,*)*!#5" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+[VI\"*)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+=JZ#*)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+@qh$*)*!#5" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Uot%*)*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+LL$e*)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+;
+s!p*)*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%=fz*)*!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+**)*)*)*)*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+++++**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*4
+!*4!**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%yg>!**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+@E\"H!**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+ah%Q!**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+0
+>w/**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+x.m0**!#5" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+c?a1**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+2uS2**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\")oD3**!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+4444**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+5*4*4**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+'
+G92\"**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+DW]6**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+-2G7**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+yM/8**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+.Jz8**!#5" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+:*HX\"**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+PUD:**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+(Q
+mf\"**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+nmm;**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+s`N<**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+(yK!=**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+(=*p=**!#5
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+R[N>**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"++++?**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+@
+\\j?**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+V)f7#**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"++](=#**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+?1[A**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Bp2B**!#5" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+ATmB**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+CCCC**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+I?
+\"[#**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+MJPD**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+Ef#f#**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+)eqk#**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*H2q#**!#5
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Ki`F**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+av0G**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+H9
+dG**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+9!y!H**!#5" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+ludH**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+I*p+$**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cbbI**!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+$[M5$**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+\\o]J**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*
+ys>$**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+KCVK**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+1f)G$**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+LLLL**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+M[xL**!#5" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+E0@M**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+B0kM**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+N
+\\1N**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+rQ[N**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+Ou*e$**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+KdIO**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+h)3n$**!#5
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+=p5P**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+++]P**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*>
+))y$**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+0;FQ**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+2.lQ**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+!RC!R**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+RRRR**!#5
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+O!f(R**!#5" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+g(>,%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++!>w/%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+-%G3%**!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+rk<T**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+o/_T**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+l/
+'=%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Kl>U**!#5" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+O(GD%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+Vr&G%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+===V**!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+DG]V**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+D-#Q%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+y
+S8W**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+WWWW**!#5" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+\"Q^Z%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+X\\0X**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\">b`%**!#
+5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+u@lX**!#5" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+Yf%f%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++flBY**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+kS_Y**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+6&3o%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+Z**3Z**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+@%ot%**!#5
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+zRkZ**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+nm\"z%**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+Gl=[**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+3OX[**!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+\\zr[**!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+#fz*[**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+z&Q#\\**!#
+5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\\\\\\\\**!#5" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#$\"+W([(\\**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"++++]**!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+c([-&**!#5" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "\277Converge esta serie hacia alg
+\372n valor?" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+31 "Parece ser que converja hacia 1" }}}{EXCHG {PARA 279 "" 1 "" 
+{TEXT -1 90 "Lo comprobamos hallando el l\355mite, cuando n tiende a i
+nfinito, de la n-\351sima suma parcial:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 24 "limit(Sn(n),n=infinity);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#\"\"\"" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 60 "LUEGO EF
+ECTIVAMENTE LA SERIE ES CONVERGENTE Y SU SUMA VALE 1" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 82 "Otra forma de comprobarlo ser\355a examinar la \+
+convergencia de la integral impropia (" }{TEXT 258 17 "criterio integr
+al" }{TEXT -1 2 "):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 52 "Int(an(x),x=1..infinity)=int((an(x)),x=1..infinity);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%$IntG6$*&\"\"\"F(*&%\"xG\"\"\",
+&F*\"\"\"F-F-\"\"\"!\"\"/F*;F-%)infinityG-%#lnG6#\"\"#" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 57 "Int(an(x),x=1..infinity)=int(evalf(
+an(x)),x=1..infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%$IntG6$*&
+\"\"\"F(*&%\"xG\"\"\",&F*\"\"\"F-F-\"\"\"!\"\"/F*;F-%)infinityG$\"+1=Z
+Jp!#5" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 98 "que por converger asegur
+a la convergencia de la serie (aunque no proporciona el valor de su su
+ma)." }{MPLTEXT 1 0 0 "" }}}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{SECT 1 
+{PARA 4 "" 0 "" {TEXT -1 35 "Segundo ejemplo (Criterio integral)" }}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 22 "Consideramos la serie " }}{PARA 0 
+"" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "Sum(1/(n^2+1),n = 1 .. infinity)
+;" "6#-%$SumG6$*&\"\"\"\"\"\",&*$%\"nG\"\"#F(\"\"\"F(!\"\"/F+;\"\"\"%)
+infinityG" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 41 "Def
+inimos el t\351rmino general de la serie:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 19 "an:=(n)->1/(n^2+1);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%#anGR6#%\"nG6\"6$%)operatorG%&arrowGF(*&\"\"\"F-,&*$)9$\"\"#F-
+\"\"\"F3F3!\"\"F(F(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 55 "Vemos si
+ an tiende a cero cuando n tiende al infinito (" }{TEXT 256 19 "condic
+i\363n necesaria" }{TEXT -1 18 " de convergencia):" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 24 "limit(an(n),n=infinity);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 46 "Definim
+os la n-\351sima suma parcial de la serie:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 31 "Sn:=(n)->sum(1/(i^2+1),i=1..n);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%#SnGR6#%\"nG6\"6$%)operatorG%&arrowGF(-%$sumG6$*&\"
+\"\"F0,&*$)%\"iG\"\"#F0\"\"\"F6F6!\"\"/F4;F69$F(F(F(" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 47 "Representamos las 200 primeras sumas parciales:
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "plot(Sn(n),n=1..200,sty
+le=point);" }}{PARA 13 "" 1 "" {GLPLOT2D 400 300 300 {PLOTDATA 2 "6&-%
+'CURVESG6$7\\o7$$\"\"\"\"\"!$\"+%*******\\!#57$$\"+`5bN6!\"*$\"+m!*fv`
+F-7$$\"+0@5r7F1$\"+OXL4dF-7$$\"+eJl19F1$\"+3_D2gF-7$$\"+5U?U:F1$\"+cyS
+uiF-7$$\"+:jI8=F1$\"+I!)fKnF-7$$\"+?%3W3#F1$\"+G*f,6(F-7$$\"+D0^bBF1$
+\"+==!eU(F-7$$\"+IEhEEF1$\"+Y73$p(F-7$$\"+NZr(*GF1$\"+gW*>#zF-7$$\"+So
+\")oJF1$\"+ij.?\")F-7$$\"+]5-6PF1$\"+!HX]W)F-7$$\"+g_A`UF1$\"+[\"o,q)F
+-7$$\"+q%Haz%F1$\"+jPZ0*)F-7$$\"+zOjP`F1$\"+F;5u!*F-7$$\"+:'4ZA(F1$\"+
+$G#4\"[*F-7$$\"+]by6\"*F1$\"+Ed*4t*F-7$$\"+!)**RB6!\")$\"+Kv2<**F-7$$
+\"+09iN8F\\q$\"+:,m/5F17$$\"+Rx(Gw\"F\\q$\"+hGe@5F17$$\"+(R.\")=#F\\q$
+\"+b/.K5F17$$\"+:?M#e#F\\q$\"+vyqQ5F17$$\"+pKb!*HF\\q$\"+.,!Q/\"F17$$
+\"+Kfs7MF\\q$\"+#40y/\"F17$$\"+\"oWN$QF\\q$\"+&[J40\"F17$$\"+!\\3kE%F
+\\q$\"+<=^`5F17$$\"+p^nZYF\\q$\"+R4Rb5F17$$\"+Y6*o2&F\\q$\"+S@<d5F17$$
+\"+E&py]&F\\q$\"+nRoe5F17$$\"+`q>BfF\\q$\"+[X$*f5F17$$\"+OUN+jF\\q$\"+
+@&G41\"F17$$\"+21$)[nF\\q$\"+hp'>1\"F17$$\"+?*[(GrF\\q$\"+p^ui5F17$$\"
++NUoqvF\\q$\"+2Gbj5F17$$\"+s=(='zF\\q$\"+zL>k5F17$$\"+5n1\"R)F\\q$\"+'
+*y#[1\"F17$$\"+\"ph(*z)F\\q$\"+4\\Pl5F17$$\"+H?>E#*F\\q$\"+$G%*e1\"F17
+$$\"+(>)y<'*F\\q$\"+\")3Lm5F17$$\"+dx,/5!\"($\"+CQwm5F17$$\"+T@*y/\"F[
+x$\"+bn<n5F17$$\"+A\\3'3\"F[x$\"+y\"4v1\"F17$$\"+rTLF6F[x$\"+>I%y1\"F1
+7$$\"+#o[*p6F[x$\"+%Hj\"o5F17$$\"+n'Q;@\"F[x$\"+6\\Xo5F17$$\"+re(>D\"F
+[x$\"+b'=(o5F17$$\"+fMw'H\"F[x$\"+\\B**o5F17$$\"+*42qL\"F[x$\"+%pA#p5F
+17$$\"+vd(*z8F[x$\"+hQXp5F17$$\"+\"y6*=9F[x$\"+%G^'p5F17$$\"+?\"z9Y\"F
+[x$\"+D^&)p5F17$$\"+p;`,:F[x$\"+1k.q5F17$$\"+B\")RV:F[x$\"+se@q5F17$$
+\"+M-L%e\"F[x$\"+#>#Qq5F17$$\"+iB=F;F[x$\"+xtaq5F17$$\"+`SXo;F[x$\"+r%
+)pq5F17$$\"+>.m5<F[x$\"+qa%32\"F17$$\"+&4<Dv\"F[x$\"+zU)42\"F17$$\"+E
+\"z4z\"F[x$\"+Eh5r5F17$$\"+`41N=F[x$\"+6&R72\"F17$$\"+l#)[u=F[x$\"+8NN
+r5F17$$\"+.g_;>F[x$\"+4*p92\"F17$$\"+$[hn&>F[x$\"+Vmdr5F17$$\"$+#F*$\"
++olor5F1-%'COLOURG6&%$RGBG$\"#5!\"\"F*F*-%&STYLEG6#%&POINTG-%+AXESLABE
+LSG6$Q\"n6\"%!G-%%VIEWG6$;F(Fb_l%(DEFAULTG" 1 5 0 1 0 2 9 1 4 2 
+1.000000 45.000000 45.000000 0 }}}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+107 "La forma de la curva parece sugerir que es asint\363tica horizont
+almente hacia alg\372n valor algo superior a 1. " }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 21 "Hallamos sus valores:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 44 "for k from 1 by 1 to 200 do evalf(Sn(k)) od;" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+++++]!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+++++q!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"++++
++!)!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%HN#)e)!#5" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+z1&G(*)!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+\\47V#*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\\47V%*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+.r'pf*!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+A$=*=(*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+B
+#Gz\")*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Oa*)**)*!#5" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+a4')o**!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+[%oF+\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+!fWy+\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+p$pA,\"!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+?/;;5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+'p3'>5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+>
+coA5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+]![a-\"!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+:=%z-\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+fU?I5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+9h
+EK5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+2H:M5!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+4g)e.\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+`M[P5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+e0'*Q5!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+@/LS5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+1VgT5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+b>
+zU5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+L=!R/\"!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+M8%\\/\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+Wp\"f/\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++vV$o/\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+z')pZ5!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+SV^[5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+]`G\\5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+x
+_,]5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+=tq]5!\"*" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+[VO^5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+e*))>0\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+)[$e_5!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+h+:`5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+,1p`5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+jo
+?a5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Z/qa5!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+8G<b5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+-`ib5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+U\"fg0\"!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+haZc5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+,`(o0\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+@'fs0\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+2$Hw0\"!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+z^)z0\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+(*zKe5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+m
+%e'e5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Us(*e5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+M\\Gf5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+6@ef5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+-$p)f5!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+.q9g5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+wcTg5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+ad
+ng5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Vw#41\"!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+C<<h5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+a$391\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+qyjh5!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+(eg=1\"!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+.o2i5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+*z'Gi5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+R3\\i5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+t\"*oi5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+P?)G1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+a'pI1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+OADj5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+#)*HM1\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+$3.O1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+<<xj5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+bg$R1\"!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+gi4k5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+'[_U1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+y[Sk5!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+xNbk5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+:()pk5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+=
+/%[1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+3)y\\1\"!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+)*R6l5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+)4Y_1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+8_Pl5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+W9]l5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+')[il5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+Icul5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+jP'e1\"!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+q$zf1\"!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+JD4m5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+AL?m5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+<=Jm5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+(3=k1\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+*>Al1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+>Uim5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+4Usm5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+HA#o1\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+P$=p1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+(e7q1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+N]5n5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+Hd>n5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+@ZGn5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+d?Pn5!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%ydu1\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+X>an5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+$e
+Cw1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Qdqn5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+^ayn5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+gP'y1\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+,2%z1\"!
+\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+4j,o5!\"*" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#$\"+?14o5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++mO;o5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+zaBo5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+\"41$o5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+IbPo5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+FQ
+Wo5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+45^o5!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+.rdo5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+N@ko5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Jhqo5!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+:\"p(o5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+66$)o5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+V
+@*)o5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+KA&*o5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"++9,p5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+o'p!p5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+dq7p5!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+'e$=p5!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+u#R#p5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++TTHp5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+/#[$p5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+![,%p5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+))RXp5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Ud]p5!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+gnbp5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+dqgp5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+[m
+lp5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Zbqp5!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+qPvp5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+I8!)p5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+T#[)p5!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+;X*)p5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+o,%*p5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+4
+_)*p5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+^'H+2\"!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+2N2q5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+)y;,2\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+0&f,2\"!
+\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+p;?q5!\"*" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#$\"+!HV-2\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$
+\"+!Q%Gq5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+[\\Kq5!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+/]Oq5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+eXSq5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+>O
+Wq5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+'>#[q5!\"*" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+)H?02\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+Nzbq5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+9^fq5!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+V=jq5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+K\"o12\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++()Rqq5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+;%R22\"!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+GWxq5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+H!432\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+EK%32\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Fq(32\"!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Q/\"42\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+nM%42\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+>h(42\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+,%352\"!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+>./r5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+!)=2r5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*
+3.62\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+_R8r5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+vW;r5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+kY>r5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+CXAr5!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+gSDr5!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+xKGr5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\"
+=782\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+x2Mr5!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+q!p82\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+kqRr5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+kZ
+Ur5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+v@Xr5!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+,$z92\"!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+Yh]r5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+;F`r5!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+9!f:2\"!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+W]er5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+53
+hr5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+<jjr5!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+p:mr5!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+olor5!\"*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "\277Converge es
+ta serie hacia alg\372n valor?" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT -1 38 "Parece ser que converja hacia 1'07...." }}}{EXCHG 
+{PARA 256 "" 1 "" {TEXT -1 75 "Hallamos el l\355mite, cuando n tiende \+
+a infinito, de la n-\351sima suma parcial:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 31 "limit(evalf(Sn(n)),n=infinity);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+ZSnw5!\"*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 71 
+"LUEGO EFECTIVAMENTE LA SERIE ES CONVERGENTE Y SU SUMA VALE 1'07667404
+7." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 64 "Comprobamos que converge ta
+mbi\351n aplicando el criterio integral:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 54 "Int((an(x)),x=1..infinity)=int((an(x)),x=1..infinity)
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%$IntG6$*&\"\"\"F(,&*$)%\"xG\"
+\"#F(\"\"\"F.F.!\"\"/F,;F.%)infinityG,$%#PiG#F.\"\"%" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 10 "es decir: " }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 59 "Int((an(x)),x=1..infinity)=int(evalf(an(x)),x=1..infi
+nity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%$IntG6$*&\"\"\"F(,&*$)%\"
+xG\"\"#F(\"\"\"F.F.!\"\"/F,;F.%)infinityG$\"+N;)R&y!#5" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 98 "que por converger asegura la convergencia
+ de la serie (aunque no proporciona el valor de su suma)." }{MPLTEXT 
+1 0 0 "" }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 34 "Tercer ejemplo (Crit
+erio integral)" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }
+}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 31 "Consideramos la serie num\351ric
+a " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "Sum(n/(n^2+1),n = \+
+1 .. infinity);" "6#-%$SumG6$*&%\"nG\"\"\",&*$F'\"\"#F(\"\"\"F(!\"\"/F
+';\"\"\"%)infinityG" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 41 "Definimos el t\351rmino general de la serie:" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "an:=(n)->n/(n^2+1);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#anGR6#%\"nG6\"6$%)operatorG%&arrowG
+F(*&9$\"\"\",&*$)F-\"\"#F.\"\"\"F3F3!\"\"F(F(F(" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 71 "Vemos si el t\351rmino general tiende a cero cuando \+
+n tiende al infinito (" }{TEXT 256 19 "condici\363n necesaria" }{TEXT 
+-1 19 " de convergencia): " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+24 "limit(an(n),n=infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#\"\"!
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 46 "Definimos la n-\351sima suma \+
+parcial de la serie:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "Sn:
+=(n)->sum(i/(i^2+1),i=1..n);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#SnG
+R6#%\"nG6\"6$%)operatorG%&arrowGF(-%$sumG6$*&%\"iG\"\"\",&*$)F0\"\"#F1
+\"\"\"F6F6!\"\"/F0;F69$F(F(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "
+Representamos las 200 primeras sumas parciales:" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 33 "plot(Sn(n),n=1..200,style=point);" }}{PARA 13 
+"" 1 "" {GLPLOT2D 400 300 300 {PLOTDATA 2 "6&-%'CURVESG6$7X7$$\"\"\"\"
+\"!$\"+++++]!#57$$\"+?%3W3#!\"*$\"+CC-'G*F-7$$\"+So\")oJF1$\"+=j^V7F17
+$$\"+g_A`UF1$\"+&[Nu[\"F17$$\"+zOjP`F1$\"+C=D&o\"F17$$\"+:'4ZA(F1$\"+[
+hue>F17$$\"+]by6\"*F1$\"+;&eT<#F17$$\"+!)**RB6!\")$\"+IVvrBF17$$\"+09i
+N8FP$\"+KW*o`#F17$$\"+Rx(Gw\"FP$\"+%)[\\/GF17$$\"+(R.\")=#FP$\"+EMk9IF
+17$$\"+:?M#e#FP$\"+U'*ewJF17$$\"+pKb!*HFP$\"+E(f0K$F17$$\"+Kfs7MFP$\"+
+wBW]MF17$$\"+\"oWN$QFP$\"+q?/lNF17$$\"+!\\3kE%FP$\"+!3\\1n$F17$$\"+p^n
+ZYFP$\"+))yCbPF17$$\"+Y6*o2&FP$\"+a-kUQF17$$\"+E&py]&FP$\"+W\\KBRF17$$
+\"+`q>BfFP$\"+k)o`*RF17$$\"+OUN+jFP$\"+m'zl0%F17$$\"+21$)[nFP$\"+mD![7
+%F17$$\"+?*[(GrFP$\"+!*\\;zTF17$$\"+NUoqvFP$\"+#>%*)QUF17$$\"+s=(='zFP
+$\"+uN%*)G%F17$$\"+5n1\"R)FP$\"+w%>6M%F17$$\"+\"ph(*z)FP$\"+gWR)Q%F17$
+$\"+H?>E#*FP$\"+Q)[aV%F17$$\"+(>)y<'*FP$\"+yAzwWF17$$\"+dx,/5!\"($\"+1
+/b>XF17$$\"+T@*y/\"Fit$\"+A&4@c%F17$$\"+A\\3'3\"Fit$\"+1zt(f%F17$$\"+r
+TLF6Fit$\"+]K%[j%F17$$\"+#o[*p6Fit$\"+uNyrYF17$$\"+n'Q;@\"Fit$\"+C$[mq
+%F17$$\"+re(>D\"Fit$\"+#)GERZF17$$\"+fMw'H\"Fit$\"+#orUx%F17$$\"+*42qL
+\"Fit$\"+qir/[F17$$\"+vd(*z8Fit$\"+_2BO[F17$$\"+\"y6*=9Fit$\"+SW&R'[F1
+7$$\"+?\"z9Y\"Fit$\"+C%4M*[F17$$\"+p;`,:Fit$\"+KQN?\\F17$$\"+B\")RV:Fi
+t$\"+'Qjx%\\F17$$\"+M-L%e\"Fit$\"++S&Q(\\F17$$\"+iB=F;Fit$\"+!>e/+&F17
+$$\"+`SXo;Fit$\"+%**Ga-&F17$$\"+>.m5<Fit$\"++jL]]F17$$\"+&4<Dv\"Fit$\"
++u%RW2&F17$$\"+E\"z4z\"Fit$\"+1q3'4&F17$$\"+`41N=Fit$\"+iXL?^F17$$\"+l
+#)[u=Fit$\"+SZ`T^F17$$\"+.g_;>Fit$\"++Ulj^F17$$\"+$[hn&>Fit$\"+EnP%=&F
+17$%%FAILGF`\\l-%'COLOURG6&%$RGBG$\"#5!\"\"F*F*-%+AXESLABELSG6$Q\"n6\"
+%!G-%&STYLEG6#%&POINTG-%%VIEWG6$;F($\"$+#F*%(DEFAULTG" 1 5 0 1 0 2 9 
+1 4 2 1.000000 45.000000 45.000000 0 }}}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 21 "Hallamos sus valores:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 44 "for k from 1 by 1 to 200 do evalf(Sn(k)) od;" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+++++]!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"++
++++!*!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+++++7!\"*" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+=THN9!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+5=gF;!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+sRw*y\"!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+sRwH>!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+&*3%G0#!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+$*pfi@!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%*oghA!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+G3x^B!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+\\%HXV#!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+P++6D!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Fg1#e#!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+3xV[E!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+=Xp5F!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+2_JpF!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+B)*pCG!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+6g=xG!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+A81FH!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+NEduH!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+fM$*>I!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+'
+oHL1$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+ST#\\5$!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+U-'[9$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+p\\E$=$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+q7D?K!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+g+#fD$!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+l=O!H$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++.#eOK$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+NF)eN$!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+ZA5(Q$!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+wuP<M!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+?Q
+wYM!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+W>JvM!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+0$oI]$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+/c2IN!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+#=tjb$!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+ht*>e$!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+Y<)pg$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*
+[d8j$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+BN:bO!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+mnRyO!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+1B6,P!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+fNKBP!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+@C0XP!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+*Q>jw$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%
+oVry$!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+^La2Q!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+a``FQ!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+ic8ZQ!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+A$fj'Q!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+K0A&)Q!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+-Ft.R!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+6&3>#R!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+i*f(RR!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+B%)HdR!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+zY`uR!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+k*y9*R!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+-593S!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+S+`CS!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+y[
+lSS!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+&*Q_cS!\"*" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+#3X@2%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+dg_(3%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%4uE5%!\"*" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Vhf<T!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+Y))HKT!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+c
+&)yYT!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+b82hT!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+pI:vT!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+z#R!*=%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+R`t-U!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+'QYi@%!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+\\tdHU!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++mHtUU!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*y<dD%!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+&>O&oU!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+&R#>\"G%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+U/p$H%!
+\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+SU.1V!\"*" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#$\"+[vA=V!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++#*RFIV!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+nq<UV!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+X,%RN%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+![mbO%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+:#fqP%!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%Q@%)Q%!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+?fl*R%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++gcw5W!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+WLv@W!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+D;iKW!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+qIPVW!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+k,,aW!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+9``kW!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+]3&\\Z%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+L!f_[%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+_?Y&\\%!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+K?c0X!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+K5c:X!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+_5
+YDX!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+JSENX!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+a=(\\a%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+]jeaX!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+&H4Tc%!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+=CatX!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+'R()Ge%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+ie9#f%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+-%>8g%!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+f&4/h%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+PyT>Y!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+(pX$GY!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+iX>PY!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+;e'fk%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+6
+3maY!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+g3GjY!\"*" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+Ws#=n%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+77I!o%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+!)Rq)o%!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Nn.(p%!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+L1I0Z!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+/o
+\\8Z!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+[ji@Z!\"*" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+R.pHZ!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+F)*oPZ!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+NeiXZ!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+j$*\\`Z!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+'Q68w%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+e
+G1pZ!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+6ZvwZ!\"*" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+ayQ%y%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+xJ'>z%!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\\:[*z%!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+?Q%p![!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+@3N9[!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+kL
+q@[!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+YA+H[!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+U#[i$[!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+9@WV[!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+2Ye][!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\\knd[!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+`$=Z'[!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+=
+5rr[!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+G^ly[!\"*" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "6#$\"+^8b&)[!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"6#$\"+X.S#*[!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+^F?**[!\"*" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"++#ff!\\!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+2.n7\\!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+x
+mL>\\!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+.*ef#\\!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+mv`K\\!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+MK2R\\!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+nkcX\\!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+7y,_\\!\"*" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+0yUe\\!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++tpzk\\!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Le7r\\!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+$*[Tx\\!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+\\Ym$)\\!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++*ev)*)\\!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+$>[g*\\!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+KH=-]!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+m-G3]!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+]1
+M9]!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+FXO?]!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+PBNE]!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+2XIK]!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+f9AQ]!\"*" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+4O5W]!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+i8&*\\]!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+>^wb]!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+t_ah]!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+4AHn]!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+3j+t]!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Vzoy]!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+![PV3&!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+!Gb**3&!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+)pTb4&!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+#3(4,^!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+w<i1^!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+:h67^!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+L/e<^!\"*" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+b],B^!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+..UG^!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\"
+\\'zL^!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+KR9R^!\"*" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+IHYW^!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+)y`(\\^!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"++o,b^!\"*
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+eADg^!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+]/Yl^!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+e;
+kq^!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+hhzv^!\"*" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+JU#4=&!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#$\"+Rh-'=&!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+]@5\">&!\"*" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+ED:'>&!\"*" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+Dv<,_!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"++u
+<1_!\"*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 39 "\277Converge esta seri
+e hacia alg\372n valor?" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 18 "Parece ser que no." }}}{EXCHG {PARA 11 "" 1 "" {TEXT -1 
+75 "Hallamos el l\355mite, cuando n tiende a infinito, de la n-\351sim
+a suma parcial:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "limit(ev
+alf(Sn(n)),n=infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#%)infinityG
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 43 "LUEGO EFECTIVAMENTE LA SERIE \+
+ES DIVERGENTE." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 45 "Tambi\351n comp
+robamos que diverge aplicando el " }{TEXT 259 17 "criterio integral" }
+{TEXT -1 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "int(evalf(
+an(x)),x=1..infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#%)infinityG
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 52 "que por diverger asegura la d
+ivergencia de la serie." }{MPLTEXT 1 0 0 "" }}}}{SECT 1 {PARA 4 "" 0 "
+" {TEXT -1 39 "Cuarto ejemplo (Criterio de D'Alambert)" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 28 "\277Converge la serie siguiente" }}{PARA 0 "" 0 "" {TEXT 
+-1 0 "" }{XPPEDIT 18 0 "Sum(n^3*sen(Pi/(3^n)),n = 1 .. infinity);" "6#
+-%$SumG6$*&%\"nG\"\"$-%$senG6#*&%#PiG\"\"\")\"\"$F'!\"\"F./F';\"\"\"%)
+infinityG" }}{PARA 0 "" 0 "" {TEXT -1 1 "?" }}{PARA 0 "" 0 "" {TEXT 
+-1 12 "Utilizar el " }{TEXT 271 22 "criterio de D'Alembert" }{TEXT -1 
+1 "." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 41 "Definimos el t\351rmino g
+eneral de la serie:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "an:=
+(n)->n^3*sin(Pi/3^n);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#anGR6#%\"n
+G6\"6$%)operatorG%&arrowGF(*&)9$\"\"$\"\"\"-%$sinG6#*&%#PiGF0)F/F.!\"
+\"\"\"\"F(F(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 92 "Vemos si an tie
+nde a cero cuando n tiende al infinito (condici\363n necesaria de conv
+ergencia):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "limit(an(n),n
+=infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#\"\"!" }}}{EXCHG {PARA 
+0 "" 0 "" {TEXT -1 39 "Analizamos la convergencia mediante el " }
+{TEXT 260 22 "criterio de D'Alembert" }{TEXT -1 1 "." }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 72 "Limit((an(n+1))/(an(n)),n=infinity)=limit
+((an(n+1))/(an(n)),n=infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%
+&LimitG6$*&*&),&%\"nG\"\"\"F,F,\"\"$\"\"\"-%$sinG6#*&%#PiGF.)F-F*!\"\"
+F,F.*&)F+\"\"$F.-F06#*&F3F.)F-F+F5\"\"\"F5/F+%)infinityG#F,F-" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 78 "Por ser el l\355mite menor que 1, \+
+la serie converge. Ahora vemos hacia qu\351 valor." }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT -1 13 "Definimos la " }{TEXT 263 32 "n-\351sima suma par
+cial de la serie" }{TEXT -1 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 37 "Sn:=(n)->sum(i^3*sin(Pi/3^i),i=1..n);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>%#SnGR6#%\"nG6\"6$%)operatorG%&arrowGF(-%$sumG6$*
+&)%\"iG\"\"$\"\"\"-%$sinG6#*&%#PiGF3)F2F1!\"\"\"\"\"/F1;F;9$F(F(F(" }}
+}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "Representamos las 100 primeras su
+mas parciales:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "plot(Sn(n
+),n=1..100,style=point);" }}{PARA 13 "" 1 "" {GLPLOT2D 400 300 300 
+{PLOTDATA 2 "6&-%'CURVESG6$7\\q7$$\"\"\"\"\"!$\"1'QWy.a-m)!#;7$$\"1+D
+\"GyR(p7!#:F+7$$\"1+]il&z%R:F1F+7$$\"1]7.d%\\Vn\"F1F+7$$\"1+vV[$>#4=F1
+F+7$$\"1D19%Ham(=F1F+7$$\"1]P%)R#*3W>F1F+7$$\"1voa&=C:,#F1$\"1*y*Q]l=-
+OF17$$\"1++DJ\"f*y?F1FD7$$\"1+D19*)p[BF1FD7$$\"1+](opQ%=EF1FD7$$\"1]7G
+)e3Lv#F1FD7$$\"1+voz%y\"))GF1FD7$$\"1D1RDMhbHF1FD7$$\"1]P4r$[I-$F1$\"1
+05xJ_pOnF17$$\"1voz;L[!4$F1Fen7$$\"1++]i#=z:$F1Fen7$$\"1vVB0uh#R$F1Fen
+7$$\"1](oza;ti$F1Fen7$$\"1PfL>hmWPF1Fen7$$\"1DJq!p:?'QF1Fen7$$\"1>nQw/
+p?RF1Fen7$$\"18.2i_OzRF1Fen7$$\"11RvZ+/QSF1$\"1vs?#**=$=#*F17$$\"1+vVL
+[r'4%F1Fbp7$$\"1v=<wRTJVF1Fbp7$$\"1]i!*=J6mXF1Fbp7$$\"1PMF!piMo%F1Fbp7
+$$\"1C1khA\"3![F1Fbp7$$\"1=UKZq[f[F1Fbp7$$\"17y+L=;=\\F1Fbp7$$\"119p=m
+$o(\\F1Fbp7$$\"1+]P/9^N]F1$\"1MLzd>V$3\"!#97$$\"1,D1MjG\"4'F1$\"1,#\\k
+*e^w6Far7$$\"1++vj71ZrF1$\"1kXN9tyD7Far7$$\"1+Dc'eaFT(F1Fjr7$$\"1+]P4z
+WywF1Fjr7$$\"1]7yqXH6yF1Fjr7$$\"1+v=K79WzF1Fjr7$$\"1D1*Gck0,)F1$\"1a7w
+BLI]7Far7$$\"1^Pf$*y)p2)F1F[t7$$\"1xoHC7TV\")F1F[t7$$\"1+++bX$)4#)F1F[
+t7$$\"1+D\"y(y_v%)F1F[t7$$\"1,]i+7AT()F1F[t7$$\"1E\"G8`Ww!))F1F[t7$$\"
+1]7.iy1u))F1F[t7$$\"1wVt#>\"\\S*)F1F[t7$$\"1,vVBX\"p+*F1$\"1![e?&)Q>E
+\"Far7$$\"1^P%[=h(R\"*F1Fhu7$$\"1,+DYygs#*F1Fhu7$$\"1]i:'*H.L5Far$\"1d
+1!o;fsE\"Far7$$\"1+vo2_!)Q6Far$\"1D*3Jh>'p7Far7$$\"1+vVnR$\\L\"Far$\"1
+h6_HS2r7Far7$$\"1+v$z$R,Q:Far$\"1VQlc\"G8F\"Far7$$\"1+v$R`R![<Far$\"1@
+`_,+Pr7Far7$$\"1+v=v:Rd>Far$\"1H;o%ew8F\"Far7$$\"1++D#)ets@Far$\"1+.i$
+ex8F\"Far7$$\"1+]7l7TiBFar$\"1O.#3tx8F\"Far7$$\"1++v@3%fd#Far$\"1p3*>v
+x8F\"Far7$$\"1++D^rM!z#Far$\"1cS(\\vx8F\"Far7$$\"1++Dyt'p*HFar$\"1erQb
+xPr7Far7$$\"1+v$*Q$)f%=$Far$\"13NWbxPr7Far7$$\"1++D*p4xS$Far$\"1N=XbxP
+r7Far7$$\"1+++(G9nf$Far$\"1/@XbxPr7Far7$$\"1+vVa:d;QFar$\"1]AXbxPr7Far
+7$$\"1++]*[#=6SFar$\"1cAXbxPr7Far7$$\"1+vVH:qCUFar$\"1dAXbxPr7Far7$$\"
+1+DJ[@-GWFarFc[l7$$\"1,]P%)e;SYFarFc[l7$$\"1+v=e+)\\$[FarFc[l7$$\"1+]7
+jM6X]FarFc[l7$$\"1+v$R,$Qj_FarFc[l7$$\"1+Dc*H(Q`aFarFc[l7$$\"1+]PLrfec
+FarFc[l7$$\"1****\\r*)fqeFarFc[l7$$\"1**\\()49+ygFarFc[l7$$\"1+vVLRnyi
+FarFc[l7$$\"1+]7dl[,lFarFc[l7$$\"1****\\4Op,nFarFc[l7$$\"1++DrtX:pFarF
+c[l7$$\"1+v$46f\"4rFarFc[l7$$\"1++vvi#4K(FarFc[l7$$\"1+vVuE=?vFarFc[l7
+$$\"1,v=CIYGxFarFc[l7$$\"1++DO^4KzFarFc[l7$$\"1+v$f3z_9)FarFc[l7$$\"1,
+++n0g]$)FarFc[l7$$\"1+]iO9dg&)FarFc[l7$$\"1,vVTO!)o()FarFc[l7$$\"1++]6
+u9g*)FarFc[l7$$\"1+]7l*[%z\"*FarFc[l7$$\"1+++*)[fv$*FarFc[l7$$\"1+vVat
+s%e*FarFc[l7$$\"1,Dc3Q*[y*FarFc[l7$$\"$+\"F*Fc[l-%'COLOURG6&%$RGBG$\"#
+5!\"\"F*F*-%+AXESLABELSG6$Q\"n6\"%!G-%&STYLEG6#%&POINTG-%%VIEWG6$;F(Fg
+`l%(DEFAULTG" 1 5 0 1 0 2 9 1 4 2 1.000000 45.000000 45.000000 0 }}}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 21 "Hallamos sus valores:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 44 "for k from 1 by 1 to 100 do evalf(S
+n(k)) od;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+SSDg')!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+]l=-O!\"*" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+L_pOn!\"*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%**=$=#*!\"
+*" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+e>V$3\"!\")" }}{PARA 11 "" 1 
+"" {XPPMATH 20 "6#$\"+(*e^w6!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$
+\"+:tyD7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+CLI]7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+_)Q>E\"!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+n\"fsE\"!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"
++8'>'p7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+86kq7!\")" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+HS2r7!\")" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+jUDr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+c\"G8F\"!\"
+)" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\\!e8F\"!\")" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#$\"+,+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$
+\"+IZPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%ew8F\"!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+0tPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+$ex8F\"!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+
+!px8F\"!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+JxPr7!\")" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+YxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+`xPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+bxPr7!\")" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+cxPr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cx
+Pr7!\")" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+cxPr7!\")" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 41 "Parece ser que converja hacia 12'7137....
+" }}}{EXCHG {PARA 282 "" 1 "" {TEXT -1 75 "Hallamos el l\355mite, cuan
+do n tiende a infinito, de la n-\351sima suma parcial:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "Limit((Sn(n)),n=infinity)=evalf(lim
+it((Sn(n)),n=infinity));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%&LimitG
+6$-%$sumG6$*&)%\"iG\"\"$\"\"\"-%$sinG6#*&%#PiGF.)F-F,!\"\"\"\"\"/F,;F6
+%\"nG/F9%)infinityG$\"+bxPr7!\")" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+45 "La serie converge hacia el valor 12'71377755." }}}}{SECT 1 {PARA 
+4 "" 0 "" {TEXT -1 35 "Quinto ejemplo (Criterio de Cauchy)" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 18 "\277Converge la serie" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+{XPPEDIT 18 0 "Sum((n/(n+1))^(n^2),n = 1 .. infinity);" "6#-%$SumG6$)*
+&%\"nG\"\"\",&F(F)\"\"\"F)!\"\"*$F(\"\"#/F(;\"\"\"%)infinityG" }}
+{PARA 0 "" 0 "" {TEXT -1 13 "? Aplicar el " }{TEXT 272 18 "criterio de
+ Cauchy" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 41 "Defini
+mos el t\351rmino general de la serie:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 25 "an:=(n)->(n/(n+1))^(n^2);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%#anGR6#%\"nG6\"6$%)operatorG%&arrowGF()*&9$\"\"\",&F.
+\"\"\"F1F1!\"\"*$)F.\"\"#F/F(F(F(" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+92 "Vemos si an tiende a cero cuando n tiende al infinito (condici\363
+n necesaria de convergencia):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 24 "limit(an(n),n=infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#\"\"
+!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Aplicamos el " }{TEXT 261 
+18 "criterio de Cauchy" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 60 "Limit(an(n)^(1/n),n=infinity)=limit(an(n)^(1/n),n=inf
+inity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%&LimitG6$))*&%\"nG\"\"\"
+,&F*\"\"\"F-F-!\"\"*$)F*\"\"#F+*&F+F+F*F./F*%)infinityG-%$expG6#!\"\"
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "Limit(an(n)^(1/n),n=inf
+inity)=evalf(limit(an(n)^(1/n),n=infinity));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#/-%&LimitG6$))*&%\"nG\"\"\",&F*\"\"\"F-F-!\"\"*$)F*\"\"
+#F+*&F+F+F*F./F*%)infinityG$\"+7WzyO!#5" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 113 "Por ser el l\355mite inferior a 1, la serie converge. Pa
+ra evaluar hacia qu\351 valor lo hace procedemos como siempre: " }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 13 "Definimos la " }{TEXT 262 20 "n-
+\351sima suma parcial" }{TEXT -1 13 " de la serie:" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 37 "Sn:=(n)->sum((i/(i+1))^(i^2),i=1..n);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#SnGR6#%\"nG6\"6$%)operatorG%&arrowG
+F(-%$sumG6$)*&%\"iG\"\"\",&F1\"\"\"F4F4!\"\"*$)F1\"\"#F2/F1;F49$F(F(F(
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 47 "Representamos las 100 primera
+s sumas parciales:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "plot(
+Sn(n),n=1..100,style=point);" }}{PARA 13 "" 1 "" {GLPLOT2D 400 300 
+300 {PLOTDATA 2 "6&-%'CURVESG6$7[p7$$\"\"\"\"\"!$\"1+++++++]!#;7$$\"1+
+D\"GyR(p7!#:F+7$$\"1+]il&z%R:F1F+7$$\"1]7.d%\\Vn\"F1F+7$$\"1+vV[$>#4=F
+1F+7$$\"1D19%Ham(=F1F+7$$\"1]P%)R#*3W>F1F+7$$\"1voa&=C:,#F1$\"14`(>k3`
+(pF-7$$\"1++DJ\"f*y?F1FD7$$\"1+D19*)p[BF1FD7$$\"1+](opQ%=EF1FD7$$\"1]7
+G)e3Lv#F1FD7$$\"1+voz%y\"))GF1FD7$$\"1D1RDMhbHF1FD7$$\"1]P4r$[I-$F1$\"
+1x#oZ]bhs(F-7$$\"1voz;L[!4$F1Fen7$$\"1++]i#=z:$F1Fen7$$\"1+vVL[r'4%F1$
+\"1L*y9[Iw+)F-7$$\"1+]P/9^N]F1$\"1&*GeTkX7\")F-7$$\"1uozO^X*H&F1Feo7$$
+\"1](=#p))RjbF1Feo7$$\"1(oHatq`p&F1Feo7$$\"1D1k,EMFeF1Feo7$$\"1%4YZ`GL
+*eF1Feo7$$\"1j:&yY9$ffF1Feo7$$\"1Kq&4S+`-'F1$\"1)y#z$R`8:)F-7$$\"1,D1M
+jG\"4'F1F\\q7$$\"1wV[m+BbjF1F\\q7$$\"1]i!*)zt\">mF1F\\q7$$\"1(=<^mX6v'
+F1F\\q7$$\"1D\"G8`<J)oF1F\\q7$$\"1j!RvR*3:qF1$\"1`zPeWvl\")F-7$$\"1++v
+j71ZrF1F`r7$$\"1+++bX$)4#)F1$\"120rk%y5<)F-7$$\"1,+DYygs#*F1$\"1i_@NZ/
+t\")F-7$$\"1+vo2_!)Q6!#9$\"1x-y_!QS<)F-7$$\"1+vVnR$\\L\"Fbs$\"1)QGG6tT
+<)F-7$$\"1+v$z$R,Q:Fbs$\"1^<'QX\">u\")F-7$$\"1+v$R`R![<Fbs$\"1$Q]D%R>u
+\")F-7$$\"1+v=v:Rd>Fbs$\"1UO0!G%>u\")F-7$$\"1++D#)ets@Fbs$\"12h!eK%>u
+\")F-7$$\"1+]7l7TiBFbs$\"1!e1?L%>u\")F-7$$\"1++v@3%fd#Fbs$\"1'pYGL%>u
+\")F-7$$\"1++D^rM!z#Fbs$\"100'HL%>u\")F-7$$\"1++Dyt'p*HFbs$\"1?f(HL%>u
+\")F-7$$\"1+v$*Q$)f%=$Fbs$\"14!yHL%>u\")F-7$$\"1++D*p4xS$Fbs$\"1?$yHL%
+>u\")F-7$$\"1+++(G9nf$Fbs$\"1I$yHL%>u\")F-7$$\"1+vVa:d;QFbs$\"1M$yHL%>
+u\")F-7$$\"1++]*[#=6SFbsFdw7$$\"1+vVH:qCUFbsFdw7$$\"1+DJ[@-GWFbsFdw7$$
+\"1,]P%)e;SYFbsFdw7$$\"1+v=e+)\\$[FbsFdw7$$\"1+]7jM6X]FbsFdw7$$\"1+v$R
+,$Qj_FbsFdw7$$\"1+Dc*H(Q`aFbsFdw7$$\"1+]PLrfecFbsFdw7$$\"1****\\r*)fqe
+FbsFdw7$$\"1**\\()49+ygFbsFdw7$$\"1+vVLRnyiFbsFdw7$$\"1+]7dl[,lFbsFdw7
+$$\"1****\\4Op,nFbsFdw7$$\"1++DrtX:pFbsFdw7$$\"1+v$46f\"4rFbsFdw7$$\"1
+++vvi#4K(FbsFdw7$$\"1+vVuE=?vFbsFdw7$$\"1,v=CIYGxFbsFdw7$$\"1++DO^4KzF
+bsFdw7$$\"1+v$f3z_9)FbsFdw7$$\"1,++n0g]$)FbsFdw7$$\"1+]iO9dg&)FbsFdw7$
+$\"1,vVTO!)o()FbsFdw7$$\"1++]6u9g*)FbsFdw7$$\"1+]7l*[%z\"*FbsFdw7$$\"1
++++*)[fv$*FbsFdw7$$\"1+vVats%e*FbsFdw7$$\"1,Dc3Q*[y*FbsFdw7$$\"$+\"F*F
+dw-%'COLOURG6&%$RGBG$\"#5!\"\"F*F*-%&STYLEG6#%&POINTG-%+AXESLABELSG6$Q
+\"n6\"%!G-%%VIEWG6$;F(F^]l%(DEFAULTG" 1 5 0 1 0 2 9 1 4 2 1.000000 
+45.000000 45.000000 0 }}}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 44 "Hallamos
+ sus valores (s\363lo las 20 primeras):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 43 "for k from 1 by 1 to 20 do evalf(Sn(k)) od;" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+++++]!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+U'3`(p!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+0b:Ex!#5" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+\"[Iw+)!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+UkX7\")!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+%
+R`8:)!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+eWvl\")!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+l%y5<)!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+NZ/t\")!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+#RqP<)!#5
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+`!QS<)!#5" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+Rn8u\")!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+8
+J<u\")!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+;l=u\")!#5" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+a9>u\")!#5" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+tK>u\")!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+VR>u\")!#5
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+*=%>u\")!#5" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#$\"+!G%>u\")!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$
+\"+8V>u\")!#5" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 40 "Parece ser que c
+onverja hacia 0'8174...." }}}{EXCHG {PARA 11 "" 1 "" {TEXT -1 75 "Hall
+amos el l\355mite, cuando n tiende a infinito, de la n-\351sima suma p
+arcial:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "Limit((Sn(n)),n=
+infinity)=evalf(limit((Sn(n)),n=infinity));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#/-%&LimitG6$-%$sumG6$)*&%\"iG\"\"\",&F,\"\"\"F/F/!\"\"*
+$)F,\"\"#F-/F,;F/%\"nG/F6%)infinityG$\"+LV>u\")!#5" }}}{EXCHG {PARA 0 
+"" 0 "" {TEXT -1 9 "La serie " }{TEXT 264 8 "converge" }{TEXT -1 29 " \+
+hacia el valor 0'8174194333." }}}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 35 
+"Sexto ejemplo (Criterio de Leibniz)" }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 19 "\277C
+onverge la serie " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "Sum
+((-1)^(n+1)*3^n/((2*n-1)^n),n = 1 .. infinity);" "6#-%$SumG6$*(),$\"\"
+\"!\"\",&%\"nG\"\"\"\"\"\"F-F-)\"\"$F,F-),&*&\"\"#F-F,F-F-\"\"\"F*F,F*
+/F,;\"\"\"%)infinityG" }}{PARA 0 "" 0 "" {TEXT -1 1 "?" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 41 "Definimos el t\351rmino general de la ser
+ie:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "an:=(n)->3^n/(2*n-1)
+^n;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#anGR6#%\"nG6\"6$%)operatorG%
+&arrowGF(*&)\"\"$9$\"\"\"),&F/\"\"#!\"\"\"\"\"F/!\"\"F(F(F(" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 11 "y la serie:" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 38 "Sum(((-1)^(n+1))*an(n),n=1..infinity);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#-%$SumG6$*&*&)!\"\",&%\"nG\"\"\"F,F,F,
+)\"\"$F+F,\"\"\"),&F+\"\"#F)F,F+!\"\"/F+;F,%)infinityG" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 13 "Aplicamos el " }{TEXT 265 19 "criterio de
+ Leibniz" }{TEXT -1 56 ". Vemos si an tiende a cero cuando n tiende al
+ infinito:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "Limit(an(n),n
+=infinity)=limit(an(n),n=infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#/-%&LimitG6$*&)\"\"$%\"nG\"\"\"),&F*\"\"#!\"\"\"\"\"F*!\"\"/F*%)infin
+ityG\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 52 "Verificamos que los \+
+an son positivos y decrecientes:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 20 "plot(an(n),n=1..10);" }}{PARA 13 "" 1 "" {GLPLOT2D 
+400 300 300 {PLOTDATA 2 "6%-%'CURVESG6$7Y7$$\"\"\"\"\"!$\"\"$F*7$$\"1+
++v$>(3)4\"!#:$\"1<@o8XqWFF07$$\"1++](Quh>\"F0$\"1QL\"p#oz/DF07$$\"1+DJ
+I&>:G\"F0$\"1?b*3ODgI#F07$$\"1+]7tY'oO\"F0$\"1'y5$)[[f6#F07$$\"1+v=7U%
+GY\"F0$\"18SMs'4F\">F07$$\"1++D^P#)e:F0$\"1I/BRQ2@<F07$$\"1+++0&Ral\"F
+0$\"1C\"3J\\-/a\"F07$$\"1++ve_0_<F0$\"11Gd-tRs8F07$$\"1+vo9=@[=F0$\"1*
+f:(f6'z@\"F07$$\"1+]iq$oV%>F0$\"1c+h%y]i2\"F07$$\"1+](o!y^L?F0$\"1QF1<
+nbg&*!#;7$$\"1+]7VsmA@F0$\"1%ROx-EKY)F_o7$$\"1+]7)R&G2BF0$\"1/@y[9<0lF
+_o7$$\"1+]7ex@)\\#F0$\"1dCy_%eZ)[F_o7$$\"1+]i&zP&)o#F0$\"1d^Cpvo@OF_o7
+$$\"1++]Z`I%)GF0$\"1bxt/[3FEF_o7$$\"1++v8vtcIF0$\"1Jgf7S=f>F_o7$$\"1++
+]#Hb3D$F0$\"1s%3f3>DR\"F_o7$$\"1++]P,xXMF0$\"1&yMfq!zs(*!#<7$$\"1++]2n
+gLOF0$\"1$[Djlls(oFhq7$$\"1+]73.=/QF0$\"1\"[d'QFfd\\Fhq7$$\"1++]<)3q+%
+F0$\"11^OvR%oK$Fhq7$$\"1+++q6$)yTF0$\"1ci<cTBaBFhq7$$\"1+]789qyVF0$\"1
+r\"e7Az3c\"Fhq7$$\"1+++X/ibXF0$\"12t(R>zn2\"Fhq7$$\"1+]7j'G(\\ZF0$\"14
+du-M_4r!#=7$$\"1+]P*elX$\\F0$\"1!f7S]/Mv%F\\t7$$\"1,+DJNUF^F0$\"1=uYJV
+S+JF\\t7$$\"1+]iDt_/`F0$\"128l\"[w33#F\\t7$$\"1***\\Ppdb\\&F0$\"1?ez[d
+lW8F\\t7$$\"1+]7eX)Rp&F0$\"1'Qr%pl?%[)!#>7$$\"1+](os:n'eF0$\"1@')y/*o/
+l&Ffu7$$\"1++D@,F`gF0$\"1O*zRW/Ai$Ffu7$$\"1*****\\1**fC'F0$\"1R\"=@%HT
+uAFfu7$$\"1++DOnaMkF0$\"1WujAgRM9Ffu7$$\"1+]7.j(ph'F0$\"13-$f,VZ8*!#?7
+$$\"1++vLK`>oF0$\"1$*prtt_-bF`w7$$\"1*****\\kR:+(F0$\"1J9zA)><Z$F`w7$$
+\"1,+]P.(e>(F0$\"1R8)p:t@6#F`w7$$\"1+]7GG'>P(F0$\"1@8#HfB.M\"F`w7$$\"1
+,+]K%yWc(F0$\"1uSY9n;8\")!#@7$$\"1**\\781iXxF0$\"1w)Q'\\6OO]Fjx7$$\"1+
+]i&Qm\\$zF0$\"17W>1/&e/$Fjx7$$\"1++](['3?\")F0$\"1a)*oj3va=Fjx7$$\"1**
+\\7y+*QJ)F0$\"1Ok)>%p])4\"Fjx7$$\"1,++qfa+&)F0$\"1/oM>Z$[g'!#A7$$\"1**
+*\\(y&G9p)F0$\"1l;'\\**o\"4RFdz7$$\"1,]7$eI2)))F0$\"13Ws\\F?9BFdz7$$\"
+1+++l%zY0*F0$\"1]iT=*QWU\"Fdz7$$\"1***\\P^WSD*F0$\"1X72[f>M\")!#B7$$\"
+1,++!**eBV*F0$\"12P*H@G-\"\\Fi[l7$$\"1**\\78%zCi*F0$\"1!4w>Gkg&GFi[l7$
+$\"1+](o\"*[W!)*F0$\"1QYJRmL%p\"Fi[l7$$\"#5F*$\"1\\$>ZJ96j*!#C-%'COLOU
+RG6&%$RGBG$F[]l!\"\"F*F*-%+AXESLABELSG6$Q\"n6\"%!G-%%VIEWG6$;F(Fj\\l%(
+DEFAULTG" 1 2 0 1 0 2 9 1 4 2 1.000000 45.000000 45.000000 0 }}}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "for j from 1 by 1 to 40 do e
+valf(an(j)) od;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"\"$\"\"!" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"\"\"\"\"!" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"++++g@!#5" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+OVf
+tL!#6" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+PjA:T!#7" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#$\"+]\\,:T!#8" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$
+\"+N8M&[$!#9" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"++++gD!#:" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "6#$\"+3=yf;!#;" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#$\"+:V6J'*!#=" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+2JLd]!#>" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+E=0DC!#?" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+a?$*p5!#@" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+v@
+CrV!#B" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+LQ$Gm\"!#C" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"+-/q<f!#E" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+$\"+*oY%y>!#F" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+:@uOi!#H" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+B2#)f=!#I" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+ZKyh_!#K" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+t?2
+;9!#L" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+!p/Qj$!#N" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#$\"+5)y/\"*)!#P" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#$\"+U#**>4#!#Q" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+;k<6Z!#S" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+r5O>5!#T" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+95RA@!#V" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+A]L
+eU!#X" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+kS9W#)!#Z" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#$\"+d[(>a\"!#[" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+$\"+1\"\\&*y#!#]" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+luK')[!#_" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+U^%eH)!#a" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#$\"+oZSm8!#b" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+PQP
+&=#!#d" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+r!enR$!#f" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#$\"++=+N^!#h" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#
+$\"+tjybv!#j" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Kd!H3\"!#k" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6#$\"+Dyu7:!#m" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 145 "Los an son positivos, decrecen y el l\355mite de an cu
+ando n tiende al infinito es cero; Seg\372n el criterio de Leibniz, la
+ serie es condicionalmente " }{TEXT 273 11 "convergente" }{TEXT -1 97 
+". Para averiguar hacia qu\351 valor lo hace procedemos hallando la ex
+presi\363n de la suma de la serie:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 
+-1 27 "Calculamos el l\355mite de la " }{TEXT 266 32 "n-\351sima suma \+
+parcial de la serie" }{TEXT -1 1 ":" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 83 "Sum(((-1)^(n+1))*an(n),n=1..infinity)=evalf(sum(((-1)
+^(n+1))*an(n),n=1..infinity));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#/-%$
+SumG6$*&*&)!\"\",&%\"nG\"\"\"F-F-F-)\"\"$F,F-\"\"\"),&F,\"\"#F*F-F,!\"
+\"/F,;F-%)infinityG$\"+K-+'=#!\"*" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+24 "Converge hacia 2'186...." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 20 "E
+studiamos ahora la " }{TEXT 268 21 "convergencia absoluta" }{TEXT -1 
+13 " mediante el " }{TEXT 267 18 "criterio de Cauchy" }{TEXT -1 1 ":" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 60 "Limit(an(n)^(1/n),n=infin
+ity)=limit(an(n)^(1/n),n=infinity);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#/-%&LimitG6$)*&)\"\"$%\"nG\"\"\"),&F+\"\"#!\"\"\"\"\"F+!\"\"*&F,F,F+F
+2/F+%)infinityG\"\"!" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 64 "Por ser m
+enor que 1, se puede afirmar que la serie alternada es " }{TEXT 274 
+25 "absolutamente convergente" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}}}{SECT 1 {PARA 3 "" 0 "" {TEXT -1 21 "EJERC
+ICIOS PROPUESTOS" }}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 16 "Primer ejerci
+cio" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 0 "" }{TEXT 275 80 "Aplica el criterio integr
+al al an\341lisis de la convergencia de la serie num\351rica " }}
+{PARA 280 "" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "Sum(1/(sqrt(4^n+7)),n \+
+= 1 .. infinity);" "6#-%$SumG6$*&\"\"\"\"\"\"-%%sqrtG6#,&)\"\"%%\"nGF(
+\"\"(F(!\"\"/F/;\"\"\"%)infinityG" }}{PARA 284 "" 0 "" {TEXT 276 117 "
+Comienza definiendo el t\351rmino general de la serie y combrueba que \+
+se verifica la condici\363n necesaria de convergencia" }{TEXT -1 1 ":
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 
+0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 262 "" 0 "" 
+{TEXT -1 28 "Aplica el criterio integral:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 257 "" 0 "" {TEXT -1 47 "\277Conve
+rge la serie num\351rica? (Responde S\315 o NO)" }}{PARA 0 "" 0 "" 
+{TEXT 269 10 "Respuesta:" }{TEXT -1 2 "  " }}}{EXCHG {PARA 258 "" 0 "
+" {TEXT -1 72 "Verifiqu\351moslo dibujando los valores de las primeras
+ 50 sumas parciales." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 259 "" 0 "" {TEXT -1 58 "Ahora calcula el valor de las primeras \+
+50 sumas parciales:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 260 "" 0 "" {TEXT -1 73 "Eval\372a el l\355mite, cuando n
+ tiende a infinito, de la n-\351sima suma parcial:" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}
+}}{SECT 1 {PARA 4 "" 0 "" {TEXT -1 17 "Segundo ejercicio" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 0 "" }{TEXT 270 76 "Aplica el criterio de D'Alembert al an
+\341lisis de la convergencia de la serie " }}{PARA 0 "" 0 "" {TEXT 
+277 9 "num\351rica " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "S
+um(n!/(n^n),n = 1 .. infinity);" "6#-%$SumG6$*&-%*factorialG6#%\"nG\"
+\"\")F*F*!\"\"/F*;\"\"\"%)infinityG" }}{PARA 261 "" 0 "" {TEXT -1 118 
+"Comienza definiendo el t\351rmino general de la serie y combrueba que
+ se verifica la condici\363n necesaria de convergencia:" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 263 "" 0 "" {TEXT -1 47 "\277Conve
+rge la serie num\351rica? (Responde S\315 o NO)" }}{PARA 264 "" 0 "" 
+{TEXT -1 10 "Respuesta:" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 265 "" 0 "" {TEXT -1 54 "Dibuja los valo
+res de las primeras 20 sumas parciales:" }{MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 
+266 "" 0 "" {TEXT -1 55 "Calcula los valores de las primeras 20 sumas \+
+parciales:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG 
+{PARA 267 "" 0 "" {TEXT -1 71 "Eval\372a el l\355mite de la n-\351sima
+ suma parcial cuando n tiende a infinito:" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}}{SECT 
+1 {PARA 4 "" 0 "" {TEXT -1 16 "Tercer ejercicio" }}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 278 
+80 "Aplica el criterio de Cauchy al an\341lisis de la convergencia de \+
+la serie num\351rica" }}{PARA 0 "" 0 "" {TEXT -1 0 "" }{XPPEDIT 18 0 "
+Sum((n/(2*n+1))^n,n = 1 .. infinity);" "6#-%$SumG6$)*&%\"nG\"\"\",&*&
+\"\"#F)F(F)F)\"\"\"F)!\"\"F(/F(;\"\"\"%)infinityG" }}{PARA 285 "" 0 "
+" {TEXT -1 118 "Comienza definiendo el t\351rmino general de la serie \+
+y combrueba que se verifica la condici\363n necesaria de convergencia:
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 268 "" 0 "" {TEXT 
+-1 29 "Aplica el criterio de Cauchy." }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 269 "" 0 "" {TEXT -1 47 "\277Converg
+e la serie num\351rica? (Responde S\315 o NO)" }}{PARA 270 "" 0 "" 
+{TEXT -1 10 "Respuesta:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 271 "" 0 "" {TEXT -1 32 "Eval\372a hacia qu\351 valor con
+verge." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}}{SECT 1 {PARA 4 "" 0 "" 
+{TEXT -1 16 "Cuarto ejercicio" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 8 "restart;" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 279 92 "Aplica el crite
+rio de Leibnitz al an\341lisis de la convergencia de la serie num\351r
+ica alternada" }{TEXT -1 1 " " }}{PARA 0 "" 0 "" {TEXT -1 0 "" }
+{XPPEDIT 18 0 "Sum((-1)^(n+1)/(sqrt(n)),n = 1 .. infinity);" "6#-%$Sum
+G6$*&),$\"\"\"!\"\",&%\"nG\"\"\"\"\"\"F-F--%%sqrtG6#F,F*/F,;\"\"\"%)in
+finityG" }}{PARA 272 "" 0 "" {TEXT -1 38 "Define el t\351rmino general
+ de la serie:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}
+{EXCHG {PARA 0 "" 0 "" {TEXT 280 11 "y la serie:" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 274 "" 0 "" {TEXT -1 30 "Apl
+ica el criterio de Leibniz." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 273 "" 0 "" {TEXT -1 18 "Co
+nverge la serie?" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}{EXCHG 
+{PARA 275 "" 0 "" {TEXT -1 53 "Si es convergente, averigua hacia qu
+\351 valor converge." }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 276 "" 0 "" {TEXT -1 11 "Estudia la " }
+{TEXT 257 21 "convergencia absoluta" }{TEXT -1 13 " mediante el " }
+{TEXT 256 17 "criterio integral" }{TEXT -1 1 ":" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "
+" }}}{EXCHG {PARA 277 "" 0 "" {TEXT -1 75 "Luego la convergencia es (r
+esponde CONDICIONAL , ABSOLUTA o NO CONVERGENTE)" }}{PARA 278 "" 0 "" 
+{TEXT -1 10 "Respuesta:" }}}{EXCHG {PARA 0 "" 0 "" {TEXT -1 0 "" }}}}}
+}{MARK "5" 0 }{VIEWOPTS 1 1 0 1 1 1803 }
